@@ -19,7 +19,7 @@
 
 configuration:
 ======
-change these to your own discord id:
+change both of these to your own discord id:
 
 [change discord id here](https://github.com/federational/suicide.pub/blob/main/assets/js/jew.js#L2)
 
