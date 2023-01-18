@@ -8,7 +8,7 @@
 * discord status
 * spotify rpc
 ###### files
-* basic .htaccess login system
+* htaccess login system
 * automatic file indexing
 * download button on each file
 ###### misc
