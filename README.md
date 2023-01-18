@@ -26,7 +26,7 @@ change these to your own discord id:
 
 [configure your sharex settings](https://github.com/federational/suicide.pub/blob/main/up.php#L2-L5)
 
-[set up .htaccess for the login]([https://github.com/federational/suicide.pub/blob/main/up.php#L2-L5](https://pastebin.com/raw/psC8dXm8)
+[set up .htaccess for the login](https://github.com/federational/suicide.pub/blob/main/up.php#L2-L5))
 ------
 screenshots:
 ======
