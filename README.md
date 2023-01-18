@@ -6,7 +6,7 @@
 ###### index
 * info container
 * discord status
-* spotify rpc
+* activity rpc
 ###### files
 * htaccess login system
 * automatic file indexing
@@ -27,6 +27,8 @@ change these to your own discord id:
 [configure your sharex settings](https://github.com/federational/suicide.pub/blob/main/up.php#L2-L5)
 
 [set up .htaccess for the login](https://pastebin.com/raw/psC8dXm8)
+
+[in order for the discord and activity rpc to work you need to join this](https://discord.gg/CqM3vn2t5M)
 ------
 screenshots:
 ======
