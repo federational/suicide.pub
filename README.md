@@ -3,7 +3,6 @@
 </div>
 
 ### features:
-======
 ###### index
 * info container
 * discord status
@@ -18,7 +17,6 @@
 > more coming soon...
 ------
 configuration:
-======
 
 ------
 screenshots:
