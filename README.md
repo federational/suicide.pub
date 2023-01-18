@@ -29,6 +29,7 @@ change these to your own discord id:
 [set up .htaccess for the login](https://pastebin.com/raw/psC8dXm8)
 
 [in order for the discord and activity rpc to work you need to join this](https://discord.gg/CqM3vn2t5M)
+
 ------
 screenshots:
 ======
