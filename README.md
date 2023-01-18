@@ -3,6 +3,7 @@
 </div>
 
 ### features:
+======
 ###### index
 * info container
 * discord status
@@ -15,6 +16,9 @@
 * sharex image uploader
 
 > more coming soon...
+------
+configuration:
+======
 
 ------
 screenshots:
