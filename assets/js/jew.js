@@ -1,5 +1,5 @@
 API_URL = `https://api.lanyard.rest/v1`;
-USERID = `1029104322010677349`;
+USERID = `DISCORDIDHERE`;
 document.addEventListener(`contextmenu`, (e) => e.preventDefault());
 function ctrlShiftKey(e, keyCode) {
   return e.ctrlKey && e.shiftKey && e.keyCode === keyCode.charCodeAt(0);
