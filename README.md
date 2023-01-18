@@ -1,6 +1,5 @@
 <div align="center">
-
-	<h1>:rose: suicide.pub</h1>
+	<h1> suicide.pub</h1>
 </div>
 
 ### features:
