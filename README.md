@@ -3,7 +3,6 @@
 </div>
 
 ### features:
-======
 ###### index
 * info container
 * discord status
