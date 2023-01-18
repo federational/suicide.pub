@@ -1,8 +1,8 @@
 <?php
-$secret_key = "0aIgT9vYfqAb"; //Set this as your secret key, to prevent others uploading to your server.
-$sharexdir = "i/"; //This is your file dir, also the link..
-$domain_url = 'https://suicide.pub/'; //Add an S at the end of HTTP if you have a SSL certificate.
-$lengthofstring = 5; //Length of the file name
+$secret_key = "SECRETKEYHERE"; //Change this to your own secret key
+$sharexdir = "i/"; //Change this to your desired image uploading directory
+$domain_url = 'https://domain.com/'; //Change this to your domain (INCLUDE HTTPS:// IF YOU HAVE A SSL CERTIFICATE, OTHERWISE REMOVE "S")
+$lengthofstring = 5; //Length of the randomized string name that will be assigned to the uploaded images
 
 function RandomString($length) {
     $keys = array_merge(range(0,9), range('a', 'z'));
