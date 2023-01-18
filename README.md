@@ -3,7 +3,7 @@
 </div>
 
 ### features:
-###### index (home)
+###### index
 * info container
 * discord status
 * spotify rpc
@@ -14,6 +14,7 @@
 ###### misc
 * sharex image uploader
 
+> more coming soon...
 
 ------
 screenshots:
